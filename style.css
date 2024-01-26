@@ -1,0 +1,60 @@
+
+.banner {
+    background-image: url("images/camping-2.jpg");
+    width: 600px;
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    align-content:center ;
+    text-align: center;
+}
+
+.banner h1{
+    text-decoration: white;
+    color: white;
+    text-align: center;
+}
+.banner p{
+    color: white;
+    align-items: center;
+    text-align: center;
+
+
+}
+.banner .yoh button{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}
+.banner. button .yoh{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+
+}
+.navbar{
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    justify-content:right;
+    align-items: flex-end;
+    background: black;
+    color: white;
+    border: none;
+
+
+
+}
+.navbar button{
+    color: white;
+    background-color: black;
+    border: none;
+}
+.navbar .LOGO h1{
+    font: small;
+
+}
+.
