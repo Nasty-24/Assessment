@@ -57,4 +57,129 @@
     font: small;
 
 }
-.
+.make .deco{
+    text-align: center;
+}
+.one .two{
+    text-align: center;
+}
+.mee .you{
+    text-align: center;
+}
+.iner .kichwa{
+    text-align: center;
+}
+.button .ayo{
+    color: white;
+    background-color: black;
+}
+.form input{
+    background-color: transparent;
+    border-left: none;
+    border-right: none;
+    margin-top: 20px;
+    font-size: 10px;
+}
+.form .burner{
+    text-align: right;
+    align-content:flex-end ;
+    align-items: flex-end;
+}
+.atb :hover{
+    background-color: black;
+    color: white;
+
+}
+.mee .init{
+    justify-content: space-evenly;
+}
+.init .yeah{
+    border: black;
+    background-image: url("images/camping-1.jpg");
+    height: 70vh;
+    width: 50%;
+}
+.init .yeah h1{
+    text-align: center;
+}
+.init .yeah .wozza{
+    width: 103vh;
+}
+
+.init .matin{
+    background-image: url("images/camping-2.jpg");
+    height:70vh ;
+    width: 50%;
+    color: black;
+    border:none;
+
+}
+.init .matin .yeye{
+    width:103vh ;
+}
+.matin .yeye h1{
+    text-align: center;
+}
+.matin .yeye{
+
+}
+
+.brayo{
+    background-image: url("images/camping-3.jpg");
+    height: 70vh;
+    width: 50%;
+}
+.brayo .mano{
+    text-align: center;
+    color: black;
+}
+.init .brayo .mano{
+    width: 103vh;
+}
+.yeah .wozza{
+    text-align: center;
+    color: black;
+}
+.brayo .button{
+    width: 70%;
+}
+.form.burner{
+    left: 1300px;
+}
+.form .burner .ayo .button{
+    color: white;
+    background-color: black;
+}
+.burner{
+    position: relative;
+    left: 800px;
+    bottom: 100px;
+}
+.input-box input{
+    width: 300px;
+}
+.jina input{
+    height: 15vh;
+}
+.matope{
+    background-image: url("images/tents.jpg");
+    height: 70vh;
+    width: 50%;
+}
+.mbwa{
+    background-image: url("images/bags.jpg");
+    height:70vh ;
+    width: 50%;
+}
+.mapenzi{
+    background-image: url("images/stoves.jpg");
+    height:70vh ;
+    width: 50%;
+}
+.one .mbwa{
+    text-align: center;
+.one .matope{
+text-align: center}
+.one .mapenzi{
+text-align: center}
+}
